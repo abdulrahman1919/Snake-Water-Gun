@@ -8,7 +8,7 @@ Play against the computer, compete across **10 rounds**, and try to achieve the 
 
 🚀 **The game is live on GitHub Pages!**
 
-👉 [Click here to Play Snake-Water-Gun](https://abdurrahman1919.github.io/Snake-Water-Gun/)
+👉 [Snake-Water-Gun](https://abdurrahman1919.github.io/Snake-Water-Gun/)
 
 ---
 

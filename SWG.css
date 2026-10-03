@@ -207,6 +207,7 @@ button {
     outline: none;
     color: whitesmoke;
     font-weight: 600;
+    overflow-y: auto;
 }
 
 .help:hover {
@@ -223,7 +224,7 @@ button {
     position: absolute;
     top: 60px;
     right: 20px;
-    height: 480px;
+    height: 100%,580px;
     width: 310px;
     padding: 10px;
     border-radius: 10px;
@@ -356,8 +357,4 @@ button {
 
 .togivgoldcolor {
     color: gold;
-}
-
-.remove {
-    display: none;
 }
