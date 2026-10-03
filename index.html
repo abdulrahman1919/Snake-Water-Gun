@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake-Water-Gun</title>
+    <link rel="stylesheet" href="SWG.css">
+    <link rel="stylesheet" href="responsive.css">
+</head>
+
+<body>
+    <div id="main">
+        <div class="letsstart">
+            <div class="letsstartw">This game has 10 rounds. To start first Round click on start button.</div>
+            <button class="letsstartbtn">START</button>
+            <button class="restartbutn">Restart</button>
+
+        </div>
+        <div id="first">
+            <button class="togohome">Home</button>
+            <div class="scoreboard ongamebluran">
+                <div class="score">
+                    <h1>Score Boad</h1>
+                </div>
+                <div class="comYouscore">
+                    <div class="scoreshowdiv">
+                        <h2>You</h2>
+                        <div class="you sc">0</div>
+                    </div>
+                    <div class="rounds">
+                        <h2>Round</h2>
+                        <div class="scputsecorein">0</div>
+                    </div>
+                    <div class="scoreshowdiv">
+                        <h2>Computer</h2>
+                        <div class="com sc">0</div>
+                    </div>
+                </div>
+                <h2 id="selH">Select One</h2>
+            </div>
+            <div class="gamedivscontainer ongamebluran" id="gamepor">
+                <button class="snake gamedivs"></button>
+                <button class="water gamedivs"></button>
+                <button class="gun gamedivs"></button>
+            </div>
+
+        </div>
+        <div id="sec">
+            <div>
+                <h1>Snake-Water-Gun</h1>
+                <h1>Game</h1>
+            </div>
+            <button id="btn">Play</button>
+            <button class="help">Help</button>
+            <div class="helpworddiv">
+                <h2>HElP</h2>
+                <p>This game like a Rock,Paper and Sesor game. In this game you need to select one thing. After your
+                    selection, computer selects one thing automaticaly. <br><br>
+                    If you select <b>Snake</b> and conmpter select <b>Water</b> then you win the game. Because
+                    <b>Snake</b> will drink <b>water</b>. When computer select <b>Gun</b> then computer win this game.
+                    Because <b>Gun</b> will shoot the <b>Snake</b>.<br><br>
+                    If you select <b>Water</b> and conmpter select <b>Gun</b> then you win the game. Because <b>Gun</b>
+                    will drove in <b>Water</b>. When computer select <b>Snake</b> then computer win this game. Because
+                    <b>Snake</b> will drink the <b>Water</b>.<br><br>
+                    If you select <b>Gun</b> and conmpter select <b>Snake</b> then you win the game. Because <b>Gun</b>
+                    will shoot <b>Snake</b>. When computer select <b>Water</b> then computer win this game. Because
+                    <b>Gun</b> will drove the <b>Water</b>.<br><br>
+                    <b>When both select same then match will tied.</b>
+                </p>
+            </div>
+        </div>
+    </div>
+    <script src="SWG.js"></script>
+</body>
+
+</html>
