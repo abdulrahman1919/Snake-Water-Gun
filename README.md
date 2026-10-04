@@ -8,7 +8,7 @@ Play against the computer, compete across **10 rounds**, and try to achieve the 
 
 🚀 **The game is live on GitHub Pages!**
 
-👉 [Snake-Water-Gun](https://abdurrahman1919.github.io/Snake-Water-Gun/)
+👉 [Snake-Water-Gun](https://abdulrahman1919.github.io/Snake-Water-Gun/)
 
 ---
 
@@ -174,11 +174,11 @@ The project is deployed using **GitHub Pages**.
 
 ### 🌐 Live Website
 
-👉 https://abdurrahman1919.github.io/Snake-Water-Gun/
+👉 https://abdulrahman1919.github.io/Snake-Water-Gun/
 
 ### 💻 Source Code
 
-👉 [View Repository on GitHub](https://github.com/abdurrahman1919/Snake-Water-Gun)
+👉 [View Repository on GitHub](https://github.com/abdulrahman1919/Snake-Water-Gun)
 
 ---
 
@@ -203,7 +203,8 @@ Some ideas for future versions:
 
 A beginner web developer passionate about learning **Python, Web Development, and Software Development**.
 
-🔗 **GitHub:** [@abdurrahman1919](https://github.com/abdurrahman1919)
+
+🔗 **GitHub:** [@abdulrahman1919](https://github.com/abdulrahman1919)
 
 ---
 
